@@ -105,7 +105,7 @@ Agent 至少要经过 7 层测试：
 
 ## 7. 最终项目
 
-最终项目暂定为 **Enterprise Workflow Agent**。
+最终项目确定为 **Enterprise Support Workflow Agent：企业内部工单与知识库 Agent**。
 
 它模拟一个企业内部工单/知识库/业务工具场景：
 
@@ -164,4 +164,3 @@ Agent 至少要经过 7 层测试：
 - LangGraph durable execution (https://docs.langchain.com/oss/python/langgraph/durable-execution)
 - Model Context Protocol architecture (https://modelcontextprotocol.io/docs/learn/architecture)
 - OWASP MCP Top 10 (https://owasp.org/www-project-mcp-top-10/)
-

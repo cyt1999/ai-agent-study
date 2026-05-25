@@ -21,6 +21,7 @@ Created: 2026-05-24
 ## 课程文件
 
 - `COURSE_OUTLINE.md`：完整课程大纲与推进方式。
+- `GLOSSARY.md`：课程术语表。
 - `00-course-orientation.md`：课程导论、学习目标、企业落地标准和路线。
 - `01-what-problems-do-agents-solve.md`：Agent 解决的企业问题、5 类落地场景、飞书参照和主线项目设定。
 - `02-structured-output.md`：从 LLM API 到结构化输出。
@@ -34,6 +35,13 @@ Created: 2026-05-24
 - `10-observability.md`：Observability：Trace、日志、成本、延迟。
 - `11-security-and-production-gates.md`：安全、权限与上线门禁。
 - `12-mcp-feishu-and-final-project.md`：MCP、飞书集成思路与最终项目设计。
+
+## 课程配套材料
+
+- `final-project-template.md`：最终项目设计模板。
+- `eval-dataset-examples.md`：Agent eval 数据集样例。
+- `production-readiness-checklist.md`：Agent 上线门禁清单。
+- `feishu-enterprise-agent-mapping.md`：飞书企业 Agent 场景映射。
 
 ## 配套文档
 
